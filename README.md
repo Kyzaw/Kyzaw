@@ -1,4 +1,8 @@
-## Hi I'M Rizky!👋
+About MySelf
+
+<ul>
+  <li>TES</li>
+</ul>
 
 <!--
 **Kyzaw/Kyzaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

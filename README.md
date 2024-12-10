@@ -24,7 +24,7 @@
 ---
 
 ### 📊 GitHub Stats  
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Kyzaw&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kyzaw&theme=radical" alt="GitHub Streak" />
 </p>
@@ -39,7 +39,8 @@
 -->
 ### 📫 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge&logoWidth=20)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/rizky-tri-mardiansyah-6598b1340/))  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge&logoWidth=20)](https://x.com/Kyzaww666)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge&logoWidth=20)](https://x.com/Kyzaww666)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rizkytriii_/)
 <!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=flat)](https://your-portfolio-link)>
 
 ---

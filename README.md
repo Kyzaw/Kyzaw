@@ -29,9 +29,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kyzaw&theme=radical" alt="GitHub Streak" />
 </p>
 
----
+<!-- ---
 
-<!-- ### 🌟 Highlighted Projects  
+ ### 🌟 Highlighted Projects  
 - 🚀 **[Project Name](link-to-project)**: Short description about the project.  
 - 💡 **[Project Name](link-to-project)**: Short description about the project.  
 

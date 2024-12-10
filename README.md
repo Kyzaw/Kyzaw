@@ -1,20 +1,43 @@
-About MySelf
+# 👋 Hello, I'm Rizky!
 
-<ul>
-  <li>TES</li>
-</ul>
+### 👨‍💻 About Me  
+- 💻 Passionate about coding and building awesome projects.  
+- 🌱 Currently learning **React**, **Node.js**, and **Next.js**.  
+- 🚀 Interested in **Web Development**, **Open Source**, and **Game Development**.  
+- 🎯 My goal is to contribute to meaningful open-source projects.  
 
-<!--
-**Kyzaw/Kyzaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) 
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat) 
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) 
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kyzaw&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kyzaw&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+<!-- ### 🌟 Highlighted Projects  
+- 🚀 **[Project Name](link-to-project)**: Short description about the project.  
+- 💡 **[Project Name](link-to-project)**: Short description about the project.  
+
+--- 
 -->
+### 📫 Let's Connect!  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/rizky-tri-mardiansyah-6598b1340/))  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://x.com/Kyzaww666)  
+<!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=flat)](https://your-portfolio-link)>
+
+---
+
+⭐️ **"Keep learning, keep growing, and keep coding!"**

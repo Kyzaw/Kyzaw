@@ -25,8 +25,8 @@
 
 ### 📊 GitHub Stats  
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kyzaw&show_icons=true&theme=shadow-red" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kyzaw&theme=shadow-red" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kyzaw&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kyzaw&theme=radical" alt="GitHub Streak" />
 </p>
 
 <!-- ---

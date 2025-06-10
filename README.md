@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge&logoWidth=20" alt="MySQL" />
   <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge&logoWidth=20" alt="Figma" />
   <img src="https://img.shields.io/badge/-Prisma-000000?logo=prisma&logoColor=white&style=for-the-badge&logoWidth=20" alt="Prisma" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge&logoWidth=20" alt="PostgreSQL" />
 </p>
 
 

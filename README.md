@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge&logoWidth=20" alt="PHP" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge&logoWidth=20" alt="MySQL" />
   <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge&logoWidth=20" alt="Figma" />
+  <img src="https://img.shields.io/badge/-Prisma-F24E1E?logo=prisma&logoColor=white&style=for-the-badge&logoWidth=20" alt="Prisma" />
 </p>
 
 

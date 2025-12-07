@@ -84,11 +84,11 @@ const rizky = {
 
 Coming soon! Currently working on exciting projects that will be showcased here.
 
-<!-- 
-### 🚀 Project Name
-Brief description of what the project does and technologies used.
-- [Live Demo](link) | [Source Code](link)
+### 🚀 OmahanFood App
+A modern catering web application built with Next.js 15, TypeScript, Prisma, and PostgreSQL. This system provides a complete platform for catering ordering, with menu management, a payment gateway, and a review system.
+- [Live Demo](https://omahanfood.vercel.app/) | [Source Code](https://github.com/Kyzaw/omahanfood)
 
+<!-- 
 ### 💡 Project Name
 Brief description of what the project does and technologies used.
 - [Live Demo](link) | [Source Code](link)

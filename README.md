@@ -2,7 +2,11 @@
 
 # 👋 Hello, I'm Rizky Tri Mardiansyah!
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHc1N3dib3d5cGNpZnltZHBqanA2YWRzeDN6ejh3dHlmeHk4cnVveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aiaWqNYWKrYigXbupB/giphy.gif"/>
+<img 
+  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHc1N3dib3d5cGNpZnltZHBqanA2YWRzeDN6ejh3dHlmeHk4cnVveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aiaWqNYWKrYigXbupB/giphy.gif"
+  style="width: 700px;"
+/>
+
 
 ### 💻 Full Stack Developer | Open Source Enthusiast | Lifelong Learner
 
